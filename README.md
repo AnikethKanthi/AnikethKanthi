@@ -14,7 +14,7 @@ I build fast, accessible React apps and practical AI experiences (RAG, chat UX, 
 - Highlights: Costco redesign (95+ Lighthouse), RAG Chat UI, Azure Data Pipeline
 - Exploring: NeSy (LNN), component tokens, AI eval harnesses
 
-**Find me:** [Portfolio](#) · [LinkedIn](#) · [Email](mailto:you@example.com)
+**Find me:** [Portfolio](https://github.com/AnikethKanthi) · [LinkedIn](https://www.linkedin.com/in/aniketh-goud-kanthi/) · [Email](mailto:anikethkanthi9@gmail.com)
 
 <details>
 <summary>Open-source notes</summary>
