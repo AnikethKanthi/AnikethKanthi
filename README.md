@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Aniketh Kanthi 👋
+# I'm Aniketh Goud Kanthi 👋
 
 I build fast, accessible React apps and practical AI experiences (RAG, chat UX, evals).
 
